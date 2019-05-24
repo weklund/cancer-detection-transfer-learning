@@ -7,8 +7,6 @@ Use Keras and Transfer Learning to detect Skin Cancer by diagnosing Melanoma
 
 The data is pulled from the [2017 ISIC Challenge on Skin Lesion Analysis Towards Melanoma Detection](https://challenge.kitware.com/#challenge/583f126bcad3a51cc66c8d9a).  
 
-![Skin Disease Classes][image1]
-
 ## Getting Started
 
 1. Clone the [repository](https://github.com/udacity/dermatologist-ai) and create a `data/` folder to hold the dataset of skin images.  
